@@ -133,3 +133,7 @@ For more details see this [Medium article](https://harald-scheidl.medium.com/232
 * [Scheidl - Handwritten Text Recognition in Historical Documents](https://githubharald.github.io/publications.html)
 * [Scheidl - Word Beam Search: A Connectionist Temporal Classification Decoding Algorithm](https://githubharald.github.io/publications.html)
 
+
+
+This project is based on: https://github.com/githubharald/SimpleHTR
+Modified by: Samyak
